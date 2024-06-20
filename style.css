@@ -2,7 +2,7 @@
 body {
     font-family: 'Arial', sans-serif;
     background-image: url('amat3.jpeg'); /* Mengatur gambar latar belakang */
-    background-size: cover; /* Memastikan gambar latar belakang menutupi seluruh area */
+    background-size: 250px; /* Memastikan gambar latar belakang menutupi seluruh area */
     background-position: center; /* Posisi gambar latar belakang di tengah */
     display: flex;
     justify-content: center;
